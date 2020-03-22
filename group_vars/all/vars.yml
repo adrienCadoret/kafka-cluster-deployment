@@ -1,0 +1,5 @@
+---
+java_packages:
+  - openjdk-8-jdk
+
+sasl_protocol: none

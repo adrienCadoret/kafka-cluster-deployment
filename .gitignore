@@ -1,0 +1,10 @@
+*.pyc
+
+/.idea
+
+.vault.*
+
+doc-deploy.sh
+
+# Ignore galaxy roles
+roles/geerlingguy.java
